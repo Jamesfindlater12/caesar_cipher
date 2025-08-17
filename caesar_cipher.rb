@@ -26,5 +26,5 @@ def caeser_cipher(string, shift)
 p cipher_array.join('')
 end
 
-caeser_cipher('hello my friend', 5)
+caeser_cipher('hello my friend', 1)
 
